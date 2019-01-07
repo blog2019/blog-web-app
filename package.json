@@ -1,16 +1,9 @@
 {
-<<<<<<< HEAD
   "name": "blog-web-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "immutable": "^3.8.2",
-=======
-  "name": "blog_react",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
->>>>>>> 9658cb39daa6ca7a9876fb9a8c75d4bea2df1d69
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-redux": "^5.0.7",
